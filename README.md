@@ -11,7 +11,7 @@
 
 Agent Skills превращают повторяемые инструкции, знания и автоматизацию в переносимые модули, которые AI-агент может подключать по мере необходимости. Один и тот же skill можно использовать в разных проектах и, если он следует открытому формату, в разных AI-инструментах.
 
-> **Последняя проверка списка:** 20 июля 2026 года. Популярность учитывается, но не является единственным критерием: также важны практическая польза, документация, лицензия и активность проекта.
+> **Последняя проверка списка:** 25 июля 2026 года. Популярность учитывается, но не является единственным критерием: также важны практическая польза, документация, лицензия и активность проекта.
 
 ## Содержание
 
@@ -99,6 +99,8 @@ npx skills add vercel-labs/agent-skills --skill web-design-guidelines
 | --- | --- |
 | [obra/superpowers](https://github.com/obra/superpowers) | Полная инженерная методология: discovery, планирование, TDD, системная отладка, code review, worktrees и multi-agent разработка. |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Небольшие компонуемые skills для реальной разработки: уточнение требований, спецификации, TDD, диагностика, архитектура и ревью. |
+| [openai/skills: security-best-practices](https://github.com/openai/skills/tree/main/skills/.curated/security-best-practices) | Проверяет Python, JavaScript/TypeScript и Go-код по security best practices, формирует приоритизированный отчет и предлагает безопасные исправления по явному запросу. |
+| [openai/skills: gh-fix-ci](https://github.com/openai/skills/tree/main/skills/.curated/gh-fix-ci) | Диагностирует падающие проверки GitHub Actions в Pull Request через `gh`, извлекает логи, объясняет причину и готовит план исправления перед внесением изменений. |
 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | Официальные frontend-skills Vercel: React, Next.js, web design, деплой, производительность и оптимизация проектов. |
 | [antfu/skills](https://github.com/antfu/skills) | Практики Anthony Fu и синхронизируемые skills для Vue, Nuxt, Vite, Vitest, VueUse и современного TypeScript-стека. |
 | [remotion-dev/skills](https://github.com/remotion-dev/skills) | Создание программного видео с Remotion и React по рекомендациям команды Remotion. |
