@@ -35,22 +35,22 @@
 
 ## Формат записи
 
-Добавьте проект в подходящую таблицу в `README.md`:
+Добавьте проект в подходящий раздел `README.md`:
 
 ```md
-| [owner/repository](https://github.com/owner/repository) | Одно конкретное предложение о том, какую задачу решает проект. |
+* [owner/repository](https://github.com/owner/repository) - одно конкретное предложение о том, какую задачу решает проект.
 ```
 
 Хорошее описание:
 
 ```md
-| [example/angular-review-skill](https://github.com/example/angular-review-skill) | Проверяет Angular-код на ошибки, архитектурные проблемы, accessibility, производительность и регрессии. |
+* [example/angular-review-skill](https://github.com/example/angular-review-skill) - проверяет Angular-код на ошибки, архитектурные проблемы, accessibility, производительность и регрессии.
 ```
 
 Слабое описание:
 
 ```md
-| [example/angular-review-skill](https://github.com/example/angular-review-skill) | Очень полезный и мощный skill для разработчиков. |
+* [example/angular-review-skill](https://github.com/example/angular-review-skill) - очень полезный и мощный skill для разработчиков.
 ```
 
 Не добавляйте текущее количество GitHub Stars в описание: оно быстро устаревает. Популярность можно указать в Pull Request как один из аргументов.
