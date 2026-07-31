@@ -13,7 +13,7 @@
 
 > Новичкам: [что такое Agent Skills, как их устанавливать и создавать](docs/guide.md).
 >
-> **Последняя проверка списка:** 27 июля 2026 года. Популярность учитывается, но не является единственным критерием: также важны практическая польза, документация, лицензия и активность проекта.
+> **Последняя проверка списка:** 31 июля 2026 года. Популярность учитывается, но не является единственным критерием: также важны практическая польза, документация, лицензия и активность проекта.
 
 ## Каталог
 
@@ -44,6 +44,7 @@
 * [obra/superpowers](https://github.com/obra/superpowers) - полная инженерная методология: discovery, планирование, TDD, системная отладка, code review, worktrees и multi-agent разработка.
 * [mattpocock/skills](https://github.com/mattpocock/skills) - небольшие компонуемые skills для реальной разработки: уточнение требований, спецификации, TDD, диагностика, архитектура и ревью.
 * [openai/plugins: security-scan](https://github.com/openai/plugins/tree/main/plugins/codex-security/skills/security-scan) - проводит последовательный security-аудит репозитория или выбранной директории: строит threat model, ищет и проверяет уязвимости, анализирует attack paths и формирует отчет.
+* [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - маршрутизирует авторизованные задачи reverse engineering и security-анализа по специализированным skills для APK, бинарных файлов, JavaScript, malware, firmware и CTF с обязательной фиксацией scope и доказательств.
 * [openai/plugins: gh-fix-ci](https://github.com/openai/plugins/tree/main/plugins/github/skills/gh-fix-ci) - диагностирует падающие проверки GitHub Actions в Pull Request через GitHub-контекст и `gh`, объясняет причину и готовит план исправления перед внесением изменений.
 * [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - официальные frontend-skills Vercel: React, Next.js, web design, деплой, производительность и оптимизация проектов.
 * [antfu/skills](https://github.com/antfu/skills) - практики Anthony Fu и синхронизируемые skills для Vue, Nuxt, Vite, Vitest, VueUse и современного TypeScript-стека.
@@ -69,6 +70,7 @@
 ### Исследования, знания и продуктивность
 
 * [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - исследование свежей информации из Reddit, Hacker News, YouTube, X и других источников с итоговым синтезом.
+* [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - превращает книги и наборы документов PDF, EPUB, DOCX, Markdown и других форматов в структурированные Agent Skills с главами, глоссарием, паттернами и шпаргалкой для загрузки знаний по запросу.
 * [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Obsidian Markdown, Bases, JSON Canvas, CLI и работа с базой знаний.
 * [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - более короткие и action-first ответы: следующий шаг сначала, нумерованные действия и минимум отвлечений.
 
