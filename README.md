@@ -66,6 +66,8 @@
 ### Дизайн и интерфейсы
 
 * [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - генерация дизайн-систем, UI/UX-рекомендации, типографика, цвета, компоненты и интерфейсы для разных платформ.
+* [openai/skills: figma](https://github.com/openai/skills/tree/main/skills/.curated/figma) - официальный skill OpenAI для работы через Figma MCP: получает design context, screenshots, variables и assets из Figma и помогает переводить Figma nodes в production code.
+* [openai/skills: figma-implement-design](https://github.com/openai/skills/tree/main/skills/.curated/figma-implement-design) - переносит дизайн из Figma в production-ready код с 1:1 visual fidelity, использованием design tokens и обязательной проверкой результата относительно исходного макета.
 
 ### Исследования, знания и продуктивность
 
