@@ -59,7 +59,7 @@
 * [obra/superpowers: verification-before-completion](https://github.com/obra/superpowers/tree/main/skills/verification-before-completion) - требует запускать актуальные проверки и читать их результат перед утверждением, что задача завершена или исправление работает.
 * [obra/superpowers: requesting-code-review](https://github.com/obra/superpowers/tree/main/skills/requesting-code-review) - формирует контекст для отдельного code-review перед завершением крупной задачи или merge.
 * [obra/superpowers: test-driven-development](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) - задает строгий цикл RED-GREEN-REFACTOR: сначала падающий тест, затем минимальная реализация и рефакторинг.
-* [LambdaTest/agent-skills: cicd-pipeline-skill](https://github.com/LambdaTest/agent-skills/tree/main/skills/cicd-pipeline-skill) - генерирует CI/CD-конфигурации для автоматизированных тестов в GitHub Actions, GitLab CI, Jenkins и Azure DevOps.
+* [LambdaTest/agent-skills: cicd-pipeline-skill](https://github.com/LambdaTest/agent-skills/tree/main/cicd-pipeline-skill) - генерирует CI/CD-конфигурации для автоматизированных тестов в GitHub Actions, GitLab CI, Jenkins и Azure DevOps.
 
 Для проекта на Karma и Jasmine базовый набор: `karma-skill`, `jasmine-skill`, `systematic-debugging` и `verification-before-completion`. TDD, code review и CI/CD skills можно подключать по процессам команды.
 
