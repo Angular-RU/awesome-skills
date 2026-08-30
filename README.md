@@ -75,6 +75,7 @@
 * [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - превращает книги и наборы документов PDF, EPUB, DOCX, Markdown и других форматов в структурированные Agent Skills с главами, глоссарием, паттернами и шпаргалкой для загрузки знаний по запросу.
 * [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Obsidian Markdown, Bases, JSON Canvas, CLI и работа с базой знаний.
 * [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - более короткие и action-first ответы: следующий шаг сначала, нумерованные действия и минимум отвлечений.
+* [Nanako0129/sepia](https://github.com/Nanako0129/sepia) - помогает писать, диагностировать и перерабатывать художественные и профессиональные тексты, уменьшая типичные признаки AI-generated prose; поддерживает отдельные workflows для release notes, PR и issue replies, postmortems, tickets и технических статей.
 
 ### Маркетинг и большие коллекции
 
