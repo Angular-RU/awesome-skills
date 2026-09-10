@@ -2,14 +2,14 @@
 
 # Awesome AI Skills
 
-**Курируемая коллекция Agent Skills для Claude Code, Codex, Gemini CLI, GitHub Copilot, Cursor и других AI-агентов.**
+**Курируемая коллекция Agent Skills и полезных companion tools для Claude Code, Codex, Gemini CLI, GitHub Copilot, Cursor и других AI-агентов.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
 
-Каталог практических skills для разработки, тестирования, дизайна, исследований и других задач.
+Каталог практических skills и инструментов для разработки, тестирования, дизайна, исследований и других задач.
 
 > Новичкам: [что такое Agent Skills, как их устанавливать и создавать](docs/guide.md).
 >
@@ -18,7 +18,7 @@
 ## Каталог
 
 * [Стандарт и официальные коллекции](#стандарт-и-официальные-коллекции)
-* [Установка и управление](#установка-и-управление)
+* [Установка, управление и инструменты](#установка-управление-и-инструменты)
 * [Разработка и инженерные процессы](#разработка-и-инженерные-процессы)
 * [JavaScript и тестирование](#javascript-и-тестирование)
 * [Дизайн и интерфейсы](#дизайн-и-интерфейсы)
@@ -34,10 +34,11 @@
 * [microsoft/skills](https://github.com/microsoft/skills) - skills, custom agents и MCP-конфигурации для Azure SDK, Microsoft Foundry и облачной разработки.
 * [huggingface/skills](https://github.com/huggingface/skills) - работа с Hugging Face Hub, датасетами, моделями, обучением, оценкой и публикацией ML-артефактов.
 
-### Установка и управление
+### Установка, управление и инструменты
 
 * [vercel-labs/skills](https://github.com/vercel-labs/skills) - универсальный `npx skills`: установка, обновление и запуск skills в Claude Code, Codex, Cursor, Gemini CLI и десятках других агентов.
 * [numman-ali/openskills](https://github.com/numman-ali/openskills) - универсальный загрузчик `SKILL.md`, включая агентов без нативной поддержки skills через интеграцию с `AGENTS.md`.
+* [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy для Claude Code, Codex и других AI-агентов, который фильтрует и сжимает вывод shell-команд (`git`, тесты, линтеры и другие) до попадания в контекст модели, сокращая расход токенов.
 
 ### Разработка и инженерные процессы
 
@@ -86,4 +87,4 @@
 
 Pull Requests приветствуются. Требования и формат записи находятся в [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Перед установкой сторонних skills прочитайте раздел [Безопасность](docs/guide.md#безопасность).
+Перед установкой сторонних skills и инструментов прочитайте раздел [Безопасность](docs/guide.md#безопасность).
