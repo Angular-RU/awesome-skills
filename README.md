@@ -67,6 +67,9 @@
 ### Дизайн и интерфейсы
 
 * [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - генерация дизайн-систем, UI/UX-рекомендации, типографика, цвета, компоненты и интерфейсы для разных платформ.
+* [anthropics/skills: frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) - официальный skill Anthropic для создания выразительных production-grade интерфейсов с продуманными композицией, типографикой, цветом, визуальной иерархией и motion.
+* [vercel-labs/agent-skills: web-design-guidelines](https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines) - аудит web-интерфейсов по рекомендациям Vercel: accessibility, UX, формы, typography, motion и другие детали реализации UI.
+* [mikezupper/modern-css-skill](https://github.com/mikezupper/modern-css-skill) - современный platform-native CSS с упором на container queries, Grid/Subgrid, cascade layers, `:has()`, popover, anchor positioning, responsive и accessibility без лишних JavaScript-хаков.
 * [openai/skills: figma](https://github.com/openai/skills/tree/main/skills/.curated/figma) - официальный skill OpenAI для работы через Figma MCP: получает design context, screenshots, variables и assets из Figma и помогает переводить Figma nodes в production code.
 * [openai/skills: figma-implement-design](https://github.com/openai/skills/tree/main/skills/.curated/figma-implement-design) - переносит дизайн из Figma в production-ready код с 1:1 visual fidelity, использованием design tokens и обязательной проверкой результата относительно исходного макета.
 
