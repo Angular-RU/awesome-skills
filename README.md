@@ -82,6 +82,7 @@
 * [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Obsidian Markdown, Bases, JSON Canvas, CLI и работа с базой знаний.
 * [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - более короткие и action-first ответы: следующий шаг сначала, нумерованные действия и минимум отвлечений.
 * [Nanako0129/sepia](https://github.com/Nanako0129/sepia) - помогает писать, диагностировать и перерабатывать художественные и профессиональные тексты, уменьшая типичные признаки AI-generated prose; поддерживает отдельные workflows для release notes, PR и issue replies, postmortems, tickets и технических статей.
+* [voygr-tech/placecall](https://github.com/voygr-tech/placecall) - звонит по поручению агента в компании США: бронирует столик или запись, узнаёт часы работы, наличие и цены, проходит голосовое меню и ожидание на линии, а затем возвращает итог и расшифровку звонка; нужен аккаунт PlaceCall, звонки платные по результату.
 
 ### Маркетинг и большие коллекции
 
