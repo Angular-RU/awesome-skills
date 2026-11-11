@@ -20,6 +20,8 @@
 * [Стандарт и официальные коллекции](#стандарт-и-официальные-коллекции)
 * [Установка, управление и инструменты](#установка-управление-и-инструменты)
 * [Разработка и инженерные процессы](#разработка-и-инженерные-процессы)
+* [C# и .NET](#c-и-net)
+* [Базы данных и SQL](#базы-данных-и-sql)
 * [JavaScript и тестирование](#javascript-и-тестирование)
 * [Дизайн и интерфейсы](#дизайн-и-интерфейсы)
 * [Исследования, знания и продуктивность](#исследования-знания-и-продуктивность)
@@ -52,6 +54,23 @@
 * [remotion-dev/skills](https://github.com/remotion-dev/skills) - создание программного видео с Remotion и React по рекомендациям команды Remotion.
 * [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - context engineering, память, tool design, evaluation, multi-agent архитектуры и production agent systems.
 * [yylo-dev/yylo-skills](https://github.com/yylo-dev/yylo-skills) - коллекция skills для инженерного workflow coding-агентов: Kanban-доска, ledger задач с зависимостями, планирование, изучение архитектуры проекта, wiki и проверяемые артефакты.
+
+### C# и .NET
+
+* [dotnet/skills](https://github.com/dotnet/skills) - официальная коллекция команды .NET для C#, ASP.NET Core, Entity Framework Core, тестирования, диагностики производительности и сборки; в том числе `optimizing-ef-core-queries`, `run-tests`, `analyzing-dotnet-performance`, `test-anti-patterns`, `dotnet-webapi`, `code-testing-agent` и `csharp-scripts`.
+* [wshaddix/dotnet-skills](https://github.com/wshaddix/dotnet-skills) - навыки и специализированные агенты для современного C#, SOLID, асинхронного кода, DI, EF Core, безопасности и архитектуры .NET-приложений.
+* [managedcode/dotnet-skills](https://github.com/managedcode/dotnet-skills) - каталог .NET skills с CLI для установки, обновления и подбора навыков по зависимостям и структуре проекта.
+
+### Базы данных и SQL
+
+* [supabase/agent-skills: supabase-postgres-best-practices](https://github.com/supabase/agent-skills/tree/main/skills/supabase-postgres-best-practices) - рекомендации по производительности PostgreSQL, индексам, пулам соединений, блокировкам, проектированию схем и Row-Level Security.
+* [wshobson/agents: postgresql-table-design](https://github.com/wshobson/agents/tree/main/plugins/database-design/skills/postgresql-table-design) - проектирование таблиц PostgreSQL с корректными типами данных, ограничениями, ключами и индексами.
+* [wshobson/agents: sql-optimization-patterns](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/sql-optimization-patterns) - оптимизация SQL-запросов через анализ планов выполнения, JOIN, индексов и проблем N+1.
+* [wshobson/agents: database-migration](https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/database-migration) - планирование безопасных миграций схемы, совместимости версий, откатов и изменений без простоя.
+* [github/awesome-copilot: postgresql-code-review](https://github.com/github/awesome-copilot/tree/main/skills/postgresql-code-review) - ревью PostgreSQL-запросов и схем с учетом производительности, безопасности и специфики СУБД.
+* [github/awesome-copilot: sql-code-review](https://github.com/github/awesome-copilot/tree/main/skills/sql-code-review) - универсальный code review SQL на ошибки корректности, сопровождения, безопасности и производительности.
+* [microsoft/postgres-skills](https://github.com/microsoft/postgres-skills) - навыки PostgreSQL и MCP-инструменты для анализа планов запросов, индексов, диагностики и эксплуатации баз данных.
+* [microsoft/microsoft-sql](https://github.com/microsoft/microsoft-sql) - специализированные skills для SQL Server и Azure SQL: T-SQL, execution plans, блокировки, безопасность, миграции и EF Core.
 
 ### JavaScript и тестирование
 
